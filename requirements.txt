@@ -1,0 +1,6 @@
+fastapi
+streamlit
+scikit-learn
+pandas
+matplotlib
+pillow
